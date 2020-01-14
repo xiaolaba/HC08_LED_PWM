@@ -11,7 +11,7 @@ disabled the user control, no need for any user input, one power up, PA0 and PA1
 ```
 
 ### circuit diagram
-see this ![HC08-led-brightness-control-pwm-method/](https://xiaolaba.wordpress.com/2012/06/29/mc68hc908qt2-microcontroller-handles-led-brightness-control-pwm-method/)
+see this [HC08-led-brightness-control-pwm-method/](https://xiaolaba.wordpress.com/2012/06/29/mc68hc908qt2-microcontroller-handles-led-brightness-control-pwm-method/)
 
 
 ### source code in asm

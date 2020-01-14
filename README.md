@@ -2,7 +2,7 @@
 HC08, QT2 or QT4, PWM to drive LED, code in asm, copy from the web.  slightly modified for demo purpose.
 
 ### modification
-disabled the user control, no need for any user input, one power up, PA0 and PA1 will dim/lite LED constantly.
+disabled the user control, no need for any user input, once power up, PA0 and PA1 will dim/lite LED constantly.
 ```
 ;  brset 2,prtA,m4    ;start working only when pA2=1
 ;  CLR   TSC0
